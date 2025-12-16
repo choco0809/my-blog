@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://choco0809.github.io/my-blog/'
 languageCode = 'ja'
 title = 'choco'
 theme = 'hermit-v2'
