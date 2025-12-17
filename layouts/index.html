@@ -1,0 +1,15 @@
+{{ define "main" }}
+	<main class="site-main section-inner thin {{- if ne false .Site.Params.usesAnimation }} animated fadeIn faster {{- end -}}">
+		{{ $about := .Site.GetPage "/about" }}
+		{{ with $about }}
+			<div class="content">
+				{{ .Content }}
+			</div>
+		{{ end }}
+	</main>
+{{ end }}
+
+{{ define "footer" }}
+<footer id="site-footer" class="section-inner thin {{- if ne false .Site.Params.usesAnimation }} animated fadeIn faster {{- end -}}">
+</footer>
+{{ end }}
