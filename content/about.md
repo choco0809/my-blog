@@ -23,7 +23,3 @@ draft = false
 - Firebase
 - Docker
 - Github
-
-## Contact
-- GitHub: [choco0809](https://github.com/choco0809)
-- Mail: miniki.dev@gmail.com
