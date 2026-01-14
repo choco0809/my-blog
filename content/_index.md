@@ -22,7 +22,3 @@ title = 'Home'
 - Firebase
 - Docker
 - Github
-
-## Contact
-- GitHub: [choco0809](https://github.com/choco0809)
-- Mail: miniki.dev@gmail.com
