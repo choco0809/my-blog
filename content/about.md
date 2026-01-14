@@ -23,3 +23,5 @@ draft = false
 - Firebase
 - Docker
 - Github
+
+<a href="https://www.kenko-niigata.com/material/files/group/3/shika_jigyousho.pdf">https://www.kenko-niigata.com/material/files/group/3/shika_jigyousho.pdf</a>
